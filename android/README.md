@@ -1,6 +1,7 @@
-# TensorFlow Lite Object Detection Android Demo
-### Overview
-This is a camera app that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera, using a quantized [MobileNet SSD](https://github.com/tensorflow/models/tree/master/research/object_detection) model trained on the [COCO dataset](http://cocodataset.org/). These instructions walk you through building and running the demo on an Android device.
+# TensorFlow Lite Object Detection For Android
+### Introduction
+A camera app that continuously detects the objects (bounding boxes and labels) in the frames seen by your android camera, using a quantized [MobileNet SSD](https://github.com/aloko001/object_detection) model trained with tensorflow api on the [COCO dataset](http://cocodataset.org/). 
+The following instructions walk you through building and running the app on an Android device.
 
 The model files are downloaded via Gradle scripts when you build and run. You don't need to do any steps to download TFLite models into the project explicitly.
 
