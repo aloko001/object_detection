@@ -7,11 +7,6 @@ The model files are downloaded via Gradle scripts when you build and run. You do
 
 Application can run either on device or emulator.
 
-**Image one**
-![Image one](https://github.com/aloko001/object_detection/blob/master/android/images_shot/OD_Android_1.png)
-
-**Image two**
-![Image two](https://github.com/aloko001/object_detection/blob/master/android/images_shot/device-2018-08-10-173223.png)
 
 ## Build the app using Android Studio
 
@@ -37,3 +32,12 @@ Click the Run button (the green arrow) or select Run > Run 'android' from the to
 
 ### Additional Note
 _Do not delete the assets folder content_. If you explicitly deleted the files, then please choose *Build*->*Rebuild* from menu to re-download the deleted model files into assets folder.
+
+### Images Generated
+**Image one**
+
+![Image one](https://github.com/aloko001/object_detection/blob/master/android/images_shot/OD_Android_1.png)
+
+**Image two**
+
+![Image two](https://github.com/aloko001/object_detection/blob/master/android/images_shot/device-2018-08-10-173223.png)
