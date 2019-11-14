@@ -34,10 +34,5 @@ Click the Run button (the green arrow) or select Run > Run 'android' from the to
 _Do not delete the assets folder content_. If you explicitly deleted the files, then please choose *Build*->*Rebuild* from menu to re-download the deleted model files into assets folder.
 
 ### Images Generated
-**Image one**
 
-![Image one](https://github.com/aloko001/object_detection/blob/master/android/images_shot/OD_Android_1.png)
-
-**Image two**
-
-![Image two](https://github.com/aloko001/object_detection/blob/master/android/images_shot/device-2018-08-10-173223.png)
+![Image one](https://github.com/aloko001/object_detection/blob/master/android/images_shot/android.jpg)
