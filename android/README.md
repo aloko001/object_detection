@@ -7,7 +7,11 @@ The model files are downloaded via Gradle scripts when you build and run. You do
 
 Application can run either on device or emulator.
 
-<!-- TODO(b/124116863): Add app screenshot. -->
+**Image one**
+![Image one](https://github.com/aloko001/object_detection/blob/master/android/images_shot/OD_Android_1.png)
+
+**Image two**
+![Image two](https://github.com/aloko001/object_detection/blob/master/android/images_shot/device-2018-08-10-173223.png)
 
 ## Build the app using Android Studio
 
